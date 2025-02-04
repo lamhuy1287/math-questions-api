@@ -1,0 +1,2029 @@
+{
+  "question": [
+    {
+      "id": 1,
+      "class": 1,
+      "level": "easy",
+      "question": "5 + 3 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "time_limit": 20
+    },
+    {
+      "id": 2,
+      "class": 1,
+      "level": "easy",
+      "question": "5 + 4 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "9",
+      "time_limit": 20
+    },
+    {
+      "id": 3,
+      "class": 1,
+      "level": "easy",
+      "question": "3 + 3 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "6",
+      "time_limit": 20
+    },
+    {
+      "id": 4,
+      "class": 1,
+      "level": "easy",
+      "question": "2 + 3 = ?",
+      "options": ["6", "5", "8", "9"],
+      "answer": "5",
+      "time_limit": 20
+    },
+    {
+      "id": 5,
+      "class": 1,
+      "level": "easy",
+      "question": "2 + 6 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "8",
+      "time_limit": 20
+    },
+    {
+      "id": 6,
+      "class": 1,
+      "level": "easy",
+      "question": "3 + 5 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "time_limit": 20
+    },
+    {
+      "id": 7,
+      "class": 1,
+      "level": "easy",
+      "question": "4 + 4 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "time_limit": 20
+    },
+    {
+      "id": 8,
+      "class": 1,
+      "level": "easy",
+      "question": "6 + 2 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "8",
+      "time_limit": 20
+    },
+    {
+      "id": 9,
+      "class": 1,
+      "level": "easy",
+      "question": "7 + 1 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "time_limit": 20
+    },
+    {
+      "id": 10,
+      "class": 1,
+      "level": "easy",
+      "question": "9 - 1 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "time_limit": 20
+    },
+    {
+      "id": 11,
+      "class": 1,
+      "level": "easy",
+      "question": "10 - 2 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "time_limit": 20
+    },
+    {
+      "id": 12,
+      "class": 1,
+      "level": "easy",
+      "question": "5 + 2 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "7",
+      "time_limit": 20
+    },
+    {
+      "id": 13,
+      "class": 1,
+      "level": "easy",
+      "question": "3 + 4 = ?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7",
+      "time_limit": 20
+    },
+    {
+      "id": 14,
+      "class": 1,
+      "level": "easy",
+      "question": "6 + 3 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9",
+      "time_limit": 20
+    },
+    {
+      "id": 15,
+      "class": 1,
+      "level": "easy",
+      "question": "8 - 2 = ?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6",
+      "time_limit": 20
+    },
+    {
+      "id": 16,
+      "class": 1,
+      "level": "medium",
+      "question": "12 + 8 = ?",
+      "options": ["18", "19", "20", "21"],
+      "answer": "20",
+      "time_limit": 40
+    },
+    {
+      "id": 17,
+      "class": 1,
+      "level": "medium",
+      "question": "15 - 7 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "time_limit": 40
+    },
+    {
+      "id": 18,
+      "class": 1,
+      "level": "medium",
+      "question": "9 + 6 = ?",
+      "options": ["14", "15", "16", "17"],
+      "answer": "15",
+      "time_limit": 40
+    },
+    {
+      "id": 19,
+      "class": 1,
+      "level": "medium",
+      "question": "18 - 9 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9",
+      "time_limit": 40
+    },
+    {
+      "id": 20,
+      "class": 1,
+      "level": "medium",
+      "question": "11 + 5 = ?",
+      "options": ["14", "15", "16", "17"],
+      "answer": "16",
+      "time_limit": 40
+    },
+    {
+      "id": 21,
+      "class": 1,
+      "level": "medium",
+      "question": "20 - 11 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "time_limit": 40
+    },
+    {
+      "id": 22,
+      "class": 1,
+      "level": "medium",
+      "question": "13 + 7 = ?",
+      "options": ["19", "20", "21", "22"],
+      "answer": "20",
+      "time_limit": 40
+    },
+    {
+      "id": 23,
+      "class": 1,
+      "level": "medium",
+      "question": "17 - 8 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9",
+      "time_limit": 40
+    },
+    {
+      "id": 24,
+      "class": 1,
+      "level": "medium",
+      "question": "14 + 5 = ?",
+      "options": ["18", "19", "20", "21"],
+      "answer": "19",
+      "time_limit": 40
+    },
+    {
+      "id": 25,
+      "class": 1,
+      "level": "medium",
+      "question": "16 - 7 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9",
+      "time_limit": 40
+    },
+    {
+      "id": 26,
+      "class": 1,
+      "level": "medium",
+      "question": "19 - 9 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "10",
+      "time_limit": 40
+    },
+    {
+      "id": 27,
+      "class": 1,
+      "level": "medium",
+      "question": "10 + 9 = ?",
+      "options": ["17", "18", "19", "20"],
+      "answer": "19",
+      "time_limit": 40
+    },
+    {
+      "id": 28,
+      "class": 1,
+      "level": "medium",
+      "question": "15 - 6 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9",
+      "time_limit": 40
+    },
+    {
+      "id": 29,
+      "class": 1,
+      "level": "medium",
+      "question": "8 + 9 = ?",
+      "options": ["15", "16", "17", "18"],
+      "answer": "17",
+      "time_limit": 40
+    },
+    {
+      "id": 30,
+      "class": 1,
+      "level": "medium",
+      "question": "20 - 12 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "time_limit": 40
+    },
+     {
+      "id": 31,
+      "class": 1,
+      "level": "hard",
+      "question": "25 + 17 = ?",
+      "options": ["41", "42", "43", "44"],
+      "answer": "42",
+      "time_limit": 60
+    },
+    {
+      "id": 32,
+      "class": 1,
+      "level": "hard",
+      "question": "36 - 19 = ?",
+      "options": ["15", "16", "17", "18"],
+      "answer": "17",
+      "time_limit": 60
+    },
+    {
+      "id": 33,
+      "class": 1,
+      "level": "hard",
+      "question": "28 + 25 = ?",
+      "options": ["51", "52", "53", "54"],
+      "answer": "53",
+      "time_limit": 60
+    },
+    {
+      "id": 34,
+      "class": 1,
+      "level": "hard",
+      "question": "49 - 26 = ?",
+      "options": ["22", "23", "24", "25"],
+      "answer": "23",
+      "time_limit": 60
+    },
+    {
+      "id": 35,
+      "class": 1,
+      "level": "hard",
+      "question": "33 + 19 = ?",
+      "options": ["50", "51", "52", "53"],
+      "answer": "52",
+      "time_limit": 60
+    },
+    {
+      "id": 36,
+      "class": 1,
+      "level": "hard",
+      "question": "58 - 32 = ?",
+      "options": ["25", "26", "27", "28"],
+      "answer": "26",
+      "time_limit": 60
+    },
+    {
+      "id": 37,
+      "class": 1,
+      "level": "hard",
+      "question": "41 + 23 = ?",
+      "options": ["62", "63", "64", "65"],
+      "answer": "64",
+      "time_limit": 60
+    },
+    {
+      "id": 38,
+      "class": 1,
+      "level": "hard",
+      "question": "67 - 39 = ?",
+      "options": ["26", "27", "28", "29"],
+      "answer": "28",
+      "time_limit": 60
+    },
+    {
+      "id": 39,
+      "class": 1,
+      "level": "hard",
+      "question": "55 + 18 = ?",
+      "options": ["71", "72", "73", "74"],
+      "answer": "73",
+      "time_limit": 60
+    },
+    {
+      "id": 40,
+      "class": 1,
+      "level": "hard",
+      "question": "89 - 47 = ?",
+      "options": ["40", "41", "42", "43"],
+      "answer": "42",
+      "time_limit": 60
+    },
+    {
+      "id": 41,
+      "class": 1,
+      "level": "hard",
+      "question": "72 + 19 = ?",
+      "options": ["89", "90", "91", "92"],
+      "answer": "91",
+      "time_limit": 60
+    },
+    {
+      "id": 42,
+      "class": 1,
+      "level": "hard",
+      "question": "95 - 56 = ?",
+      "options": ["37", "38", "39", "40"],
+      "answer": "39",
+      "time_limit": 60
+    },
+    {
+      "id": 43,
+      "class": 1,
+      "level": "hard",
+      "question": "83 + 14 = ?",
+      "options": ["96", "97", "98", "99"],
+      "answer": "97",
+      "time_limit": 60
+    },
+    {
+      "id": 44,
+      "class": 1,
+      "level": "hard",
+      "question": "104 - 65 = ?",
+      "options": ["38", "39", "40", "41"],
+      "answer": "39",
+      "time_limit": 60
+    },
+    {
+      "id": 45,
+      "class": 1,
+      "level": "hard",
+      "question": "125 + 36 = ?",
+      "options": ["159", "160", "161", "162"],
+      "answer": "161",
+      "time_limit": 60
+    },
+    {
+      "id": 46,
+      "class": 2,
+      "level": "easy",
+      "question": "12 + 7 = ?",
+      "options": ["18", "19", "20", "21"],
+      "answer": "19",
+      "time_limit": 20
+    },
+    {
+      "id": 47,
+      "class": 2,
+      "level": "easy",
+      "question": "9 + 6 = ?",
+      "options": ["13", "14", "15", "16"],
+      "answer": "15",
+      "time_limit": 20
+    },
+    {
+      "id": 48,
+      "class": 2,
+      "level": "easy",
+      "question": "20 - 8 = ?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12",
+      "time_limit": 20
+    },
+    {
+      "id": 49,
+      "class": 2,
+      "level": "easy",
+      "question": "14 + 5 = ?",
+      "options": ["17", "18", "19", "20"],
+      "answer": "19",
+      "time_limit": 20
+    },
+    {
+      "id": 50,
+      "class": 2,
+      "level": "easy",
+      "question": "25 - 9 = ?",
+      "options": ["14", "15", "16", "17"],
+      "answer": "16",
+      "time_limit": 20
+    },
+    {
+      "id": 51,
+      "class": 2,
+      "level": "easy",
+      "question": "18 + 4 = ?",
+      "options": ["21", "22", "23", "24"],
+      "answer": "22",
+      "time_limit": 20
+    },
+    {
+      "id": 52,
+      "class": 2,
+      "level": "easy",
+      "question": "30 - 12 = ?",
+      "options": ["16", "17", "18", "19"],
+      "answer": "18",
+      "time_limit": 20
+    },
+    {
+      "id": 53,
+      "class": 2,
+      "level": "easy",
+      "question": "22 + 3 = ?",
+      "options": ["24", "25", "26", "27"],
+      "answer": "25",
+      "time_limit": 20
+    },
+    {
+      "id": 54,
+      "class": 2,
+      "level": "easy",
+      "question": "40 - 15 = ?",
+      "options": ["24", "25", "26", "27"],
+      "answer": "25",
+      "time_limit": 20
+    },
+    {
+      "id": 55,
+      "class": 2,
+      "level": "easy",
+      "question": "16 + 9 = ?",
+      "options": ["24", "25", "26", "27"],
+      "answer": "25",
+      "time_limit": 20
+    },
+    {
+      "id": 56,
+      "class": 2,
+      "level": "easy",
+      "question": "50 - 23 = ?",
+      "options": ["26", "27", "28", "29"],
+      "answer": "27",
+      "time_limit": 20
+    },
+    {
+      "id": 57,
+      "class": 2,
+      "level": "easy",
+      "question": "34 + 6 = ?",
+      "options": ["38", "39", "40", "41"],
+      "answer": "40",
+      "time_limit": 20
+    },
+    {
+      "id": 58,
+      "class": 2,
+      "level": "easy",
+      "question": "55 - 29 = ?",
+      "options": ["24", "25", "26", "27"],
+      "answer": "26",
+      "time_limit": 20
+    },
+    {
+      "id": 59,
+      "class": 2,
+      "level": "easy",
+      "question": "48 + 2 = ?",
+      "options": ["49", "50", "51", "52"],
+      "answer": "50",
+      "time_limit": 20
+    },
+    {
+      "id": 60,
+      "class": 2,
+      "level": "easy",
+      "question": "70 - 41 = ?",
+      "options": ["27", "28", "29", "30"],
+      "answer": "29",
+      "time_limit": 20
+    },
+    {
+      "id": 61,
+      "class": 2,
+      "level": "medium",
+      "question": "35 + 27 = ?",
+      "options": ["61", "62", "63", "64"],
+      "answer": "62",
+      "time_limit": 40
+    },
+    {
+      "id": 62,
+      "class": 2,
+      "level": "medium",
+      "question": "48 - 19 = ?",
+      "options": ["27", "28", "29", "30"],
+      "answer": "29",
+      "time_limit": 40
+    },
+    {
+      "id": 63,
+      "class": 2,
+      "level": "medium",
+      "question": "56 + 18 = ?",
+      "options": ["72", "73", "74", "75"],
+      "answer": "74",
+      "time_limit": 40
+    },
+    {
+      "id": 64,
+      "class": 2,
+      "level": "medium",
+      "question": "90 - 42 = ?",
+      "options": ["46", "47", "48", "49"],
+      "answer": "48",
+      "time_limit": 40
+    },
+    {
+      "id": 65,
+      "class": 2,
+      "level": "medium",
+      "question": "37 + 29 = ?",
+      "options": ["64", "65", "66", "67"],
+      "answer": "66",
+      "time_limit": 40
+    },
+    {
+      "id": 66,
+      "class": 2,
+      "level": "medium",
+      "question": "72 - 35 = ?",
+      "options": ["36", "37", "38", "39"],
+      "answer": "37",
+      "time_limit": 40
+    },
+    {
+      "id": 67,
+      "class": 2,
+      "level": "medium",
+      "question": "58 + 26 = ?",
+      "options": ["82", "83", "84", "85"],
+      "answer": "84",
+      "time_limit": 40
+    },
+    {
+      "id": 68,
+      "class": 2,
+      "level": "medium",
+      "question": "85 - 47 = ?",
+      "options": ["36", "37", "38", "39"],
+      "answer": "38",
+      "time_limit": 40
+    },
+    {
+      "id": 69,
+      "class": 2,
+      "level": "medium",
+      "question": "42 + 39 = ?",
+      "options": ["79", "80", "81", "82"],
+      "answer": "81",
+      "time_limit": 40
+    },
+    {
+      "id": 70,
+      "class": 2,
+      "level": "medium",
+      "question": "95 - 56 = ?",
+      "options": ["38", "39", "40", "41"],
+      "answer": "39",
+      "time_limit": 40
+    },
+    {
+      "id": 71,
+      "class": 2,
+      "level": "medium",
+      "question": "66 + 18 = ?",
+      "options": ["82", "83", "84", "85"],
+      "answer": "84",
+      "time_limit": 40
+    },
+    {
+      "id": 72,
+      "class": 2,
+      "level": "medium",
+      "question": "104 - 65 = ?",
+      "options": ["38", "39", "40", "41"],
+      "answer": "39",
+      "time_limit": 40
+    },
+    {
+      "id": 73,
+      "class": 2,
+      "level": "medium",
+      "question": "75 + 21 = ?",
+      "options": ["94", "95", "96", "97"],
+      "answer": "96",
+      "time_limit": 40
+    },
+    {
+      "id": 74,
+      "class": 2,
+      "level": "medium",
+      "question": "88 - 49 = ?",
+      "options": ["38", "39", "40", "41"],
+      "answer": "39",
+      "time_limit": 40
+    },
+    {
+      "id": 75,
+      "class": 2,
+      "level": "medium",
+      "question": "99 + 15 = ?",
+      "options": ["112", "113", "114", "115"],
+      "answer": "114",
+      "time_limit": 40
+    },
+    {
+      "id": 76,
+      "class": 2,
+      "level": "hard",
+      "question": "125 + 48 = ?",
+      "options": ["171", "172", "173", "174"],
+      "answer": "173",
+      "time_limit": 60
+    },
+    {
+      "id": 77,
+      "class": 2,
+      "level": "hard",
+      "question": "208 - 79 = ?",
+      "options": ["127", "128", "129", "130"],
+      "answer": "129",
+      "time_limit": 60
+    },
+    {
+      "id": 78,
+      "class": 2,
+      "level": "hard",
+      "question": "96 + 57 = ?",
+      "options": ["152", "153", "154", "155"],
+      "answer": "153",
+      "time_limit": 60
+    },
+    {
+      "id": 79,
+      "class": 2,
+      "level": "hard",
+      "question": "175 - 88 = ?",
+      "options": ["86", "87", "88", "89"],
+      "answer": "87",
+      "time_limit": 60
+    },
+    {
+      "id": 80,
+      "class": 2,
+      "level": "hard",
+      "question": "142 + 36 = ?",
+      "options": ["176", "177", "178", "179"],
+      "answer": "178",
+      "time_limit": 60
+    },
+    {
+      "id": 81,
+      "class": 2,
+      "level": "hard",
+      "question": "245 - 97 = ?",
+      "options": ["146", "147", "148", "149"],
+      "answer": "148",
+      "time_limit": 60
+    },
+    {
+      "id": 82,
+      "class": 2,
+      "level": "hard",
+      "question": "189 + 42 = ?",
+      "options": ["229", "230", "231", "232"],
+      "answer": "231",
+      "time_limit": 60
+    },
+    {
+      "id": 83,
+      "class": 2,
+      "level": "hard",
+      "question": "310 - 163 = ?",
+      "options": ["145", "146", "147", "148"],
+      "answer": "147",
+      "time_limit": 60
+    },
+    {
+      "id": 84,
+      "class": 2,
+      "level": "hard",
+      "question": "278 + 55 = ?",
+      "options": ["331", "332", "333", "334"],
+      "answer": "333",
+      "time_limit": 60
+    },
+    {
+      "id": 85,
+      "class": 2,
+      "level": "hard",
+      "question": "500 - 246 = ?",
+      "options": ["252", "253", "254", "255"],
+      "answer": "254",
+      "time_limit": 60
+    },
+    {
+      "id": 86,
+      "class": 2,
+      "level": "hard",
+      "question": "362 + 98 = ?",
+      "options": ["458", "459", "460", "461"],
+      "answer": "460",
+      "time_limit": 60
+    },
+    {
+      "id": 87,
+      "class": 2,
+      "level": "hard",
+      "question": "725 - 389 = ?",
+      "options": ["335", "336", "337", "338"],
+      "answer": "336",
+      "time_limit": 60
+    },
+    {
+      "id": 88,
+      "class": 2,
+      "level": "hard",
+      "question": "473 + 129 = ?",
+      "options": ["601", "602", "603", "604"],
+      "answer": "602",
+      "time_limit": 60
+    },
+    {
+      "id": 89,
+      "class": 2,
+      "level": "hard",
+      "question": "845 - 417 = ?",
+      "options": ["427", "428", "429", "430"],
+      "answer": "428",
+      "time_limit": 60
+    },
+    {
+      "id": 90,
+      "class": 2,
+      "level": "hard",
+      "question": "526 + 374 = ?",
+      "options": ["898", "899", "900", "901"],
+      "answer": "900",
+      "time_limit": 60
+    },
+    {
+      "id": 91,
+      "class": 3,
+      "level": "easy",
+      "question": "25 + 17 = ?",
+      "options": ["40", "41", "42", "43"],
+      "answer": "42",
+      "time_limit": 20
+    },
+    {
+      "id": 92,
+      "class": 3,
+      "level": "easy",
+      "question": "58 - 29 = ?",
+      "options": ["28", "29", "30", "31"],
+      "answer": "29",
+      "time_limit": 20
+    },
+    {
+      "id": 93,
+      "class": 3,
+      "level": "easy",
+      "question": "36 + 48 = ?",
+      "options": ["82", "83", "84", "85"],
+      "answer": "84",
+      "time_limit": 20
+    },
+    {
+      "id": 94,
+      "class": 3,
+      "level": "easy",
+      "question": "92 - 46 = ?",
+      "options": ["44", "45", "46", "47"],
+      "answer": "46",
+      "time_limit": 20
+    },
+    {
+      "id": 95,
+      "class": 3,
+      "level": "easy",
+      "question": "53 + 27 = ?",
+      "options": ["79", "80", "81", "82"],
+      "answer": "80",
+      "time_limit": 20
+    },
+    {
+      "id": 96,
+      "class": 3,
+      "level": "easy",
+      "question": "105 - 58 = ?",
+      "options": ["46", "47", "48", "49"],
+      "answer": "47",
+      "time_limit": 20
+    },
+    {
+      "id": 97,
+      "class": 3,
+      "level": "easy",
+      "question": "67 + 18 = ?",
+      "options": ["84", "85", "86", "87"],
+      "answer": "85",
+      "time_limit": 20
+    },
+    {
+      "id": 98,
+      "class": 3,
+      "level": "easy",
+      "question": "130 - 69 = ?",
+      "options": ["60", "61", "62", "63"],
+      "answer": "61",
+      "time_limit": 20
+    },
+    {
+      "id": 99,
+      "class": 3,
+      "level": "easy",
+      "question": "74 + 22 = ?",
+      "options": ["95", "96", "97", "98"],
+      "answer": "96",
+      "time_limit": 20
+    },
+    {
+      "id": 100,
+      "class": 3,
+      "level": "easy",
+      "question": "200 - 125 = ?",
+      "options": ["74", "75", "76", "77"],
+      "answer": "75",
+      "time_limit": 20
+    },
+    {
+      "id": 101,
+      "class": 3,
+      "level": "easy",
+      "question": "150 + 45 = ?",
+      "options": ["193", "194", "195", "196"],
+      "answer": "195",
+      "time_limit": 20
+    },
+    {
+      "id": 102,
+      "class": 3,
+      "level": "easy",
+      "question": "180 - 95 = ?",
+      "options": ["84", "85", "86", "87"],
+      "answer": "85",
+      "time_limit": 20
+    },
+    {
+      "id": 103,
+      "class": 3,
+      "level": "easy",
+      "question": "99 + 33 = ?",
+      "options": ["130", "131", "132", "133"],
+      "answer": "132",
+      "time_limit": 20
+    },
+    {
+      "id": 104,
+      "class": 3,
+      "level": "easy",
+      "question": "250 - 178 = ?",
+      "options": ["71", "72", "73", "74"],
+      "answer": "72",
+      "time_limit": 20
+    },
+    {
+      "id": 105,
+      "class": 3,
+      "level": "easy",
+      "question": "190 + 57 = ?",
+      "options": ["245", "246", "247", "248"],
+      "answer": "247",
+      "time_limit": 20
+    },
+     {
+      "id": 106,
+      "class": 3,
+      "level": "medium",
+      "question": "6 × 7 = ?",
+      "options": ["40", "41", "42", "43"],
+      "answer": "42",
+      "time_limit": 40
+    },
+    {
+      "id": 107,
+      "class": 3,
+      "level": "medium",
+      "question": "8 × 9 = ?",
+      "options": ["70", "71", "72", "73"],
+      "answer": "72",
+      "time_limit": 40
+    },
+    {
+      "id": 108,
+      "class": 3,
+      "level": "medium",
+      "question": "56 ÷ 8 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "7",
+      "time_limit": 40
+    },
+    {
+      "id": 109,
+      "class": 3,
+      "level": "medium",
+      "question": "36 ÷ 6 = ?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6",
+      "time_limit": 40
+    },
+    {
+      "id": 110,
+      "class": 3,
+      "level": "medium",
+      "question": "9 × 8 = ?",
+      "options": ["71", "72", "73", "74"],
+      "answer": "72",
+      "time_limit": 40
+    },
+    {
+      "id": 111,
+      "class": 3,
+      "level": "medium",
+      "question": "63 ÷ 9 = ?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7",
+      "time_limit": 40
+    },
+    {
+      "id": 112,
+      "class": 3,
+      "level": "medium",
+      "question": "5 × 9 = ?",
+      "options": ["43", "44", "45", "46"],
+      "answer": "45",
+      "time_limit": 40
+    },
+    {
+      "id": 113,
+      "class": 3,
+      "level": "medium",
+      "question": "72 ÷ 9 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "8",
+      "time_limit": 40
+    },
+    {
+      "id": 114,
+      "class": 3,
+      "level": "medium",
+      "question": "7 × 8 = ?",
+      "options": ["54", "55", "56", "57"],
+      "answer": "56",
+      "time_limit": 40
+    },
+    {
+      "id": 115,
+      "class": 3,
+      "level": "medium",
+      "question": "42 ÷ 6 = ?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7",
+      "time_limit": 40
+    },
+    {
+      "id": 116,
+      "class": 3,
+      "level": "medium",
+      "question": "8 × 7 = ?",
+      "options": ["54", "55", "56", "57"],
+      "answer": "56",
+      "time_limit": 40
+    },
+    {
+      "id": 117,
+      "class": 3,
+      "level": "medium",
+      "question": "64 ÷ 8 = ?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "time_limit": 40
+    },
+    {
+      "id": 118,
+      "class": 3,
+      "level": "medium",
+      "question": "9 × 5 = ?",
+      "options": ["44", "45", "46", "47"],
+      "answer": "45",
+      "time_limit": 40
+    },
+    {
+      "id": 119,
+      "class": 3,
+      "level": "medium",
+      "question": "81 ÷ 9 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9",
+      "time_limit": 40
+    },
+    {
+      "id": 120,
+      "class": 3,
+      "level": "medium",
+      "question": "6 × 9 = ?",
+      "options": ["53", "54", "55", "56"],
+      "answer": "54",
+      "time_limit": 40
+    },
+    {
+      "id": 121,
+      "class": 3,
+      "level": "hard",
+      "question": "12 × 3 × 2 = ?",
+      "options": ["70", "71", "72", "73"],
+      "answer": "72",
+      "time_limit": 60
+    },
+    {
+      "id": 122,
+      "class": 3,
+      "level": "hard",
+      "question": "8 × 5 × 4 = ?",
+      "options": ["150", "155", "160", "165"],
+      "answer": "160",
+      "time_limit": 60
+    },
+    {
+      "id": 123,
+      "class": 3,
+      "level": "hard",
+      "question": "48 ÷ 6 = ? (phép chia hết)",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "time_limit": 60
+    },
+    {
+      "id": 124,
+      "class": 3,
+      "level": "hard",
+      "question": "50 ÷ 7 = ? (phép chia có dư)",
+      "options": ["6 dư 2", "7 dư 1", "7 dư 2", "8 dư 1"],
+      "answer": "7 dư 1",
+      "time_limit": 60
+    },
+    {
+      "id": 125,
+      "class": 3,
+      "level": "hard",
+      "question": "36 ÷ 9 = ? (phép chia hết)",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4",
+      "time_limit": 60
+    },
+    {
+      "id": 126,
+      "class": 3,
+      "level": "hard",
+      "question": "82 ÷ 9 = ? (phép chia có dư)",
+      "options": ["8 dư 1", "9 dư 1", "8 dư 2", "9 dư 2"],
+      "answer": "9 dư 1",
+      "time_limit": 60
+    },
+    {
+      "id": 127,
+      "class": 3,
+      "level": "hard",
+      "question": "Giá một cuốn sách là 25 nghìn đồng. Một học sinh mua 3 cuốn sách và một quyển vở giá 15 nghìn đồng. Hỏi tổng số tiền học sinh đó phải trả là bao nhiêu?",
+      "options": ["85", "90", "95", "100"],
+      "answer": "90",
+      "time_limit": 60
+    },
+    {
+      "id": 128,
+      "class": 3,
+      "level": "hard",
+      "question": "Một cửa hàng có 96 quả táo, người chủ chia đều vào 8 túi. Mỗi túi lại chia tiếp cho 2 người. Hỏi mỗi người nhận được bao nhiêu quả táo?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6",
+      "time_limit": 60
+    },
+    {
+      "id": 129,
+      "class": 3,
+      "level": "hard",
+      "question": "54 ÷ 6 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9",
+      "time_limit": 60
+    },
+    {
+      "id": 130,
+      "class": 3,
+      "level": "hard",
+      "question": "Một trang trại có 6 chuồng gà, mỗi chuồng có 8 con gà. Nếu số gà này được bán đi 15 con, hỏi còn lại bao nhiêu con?",
+      "options": ["30", "31", "32", "33"],
+      "answer": "33",
+      "time_limit": 60
+    },
+    {
+      "id": 131,
+      "class": 3,
+      "level": "hard",
+      "question": "72 ÷ 8 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9",
+      "time_limit": 60
+    },
+    {
+      "id": 132,
+      "class": 3,
+      "level": "hard",
+      "question": "Một lớp học có 40 học sinh, giáo viên chia lớp thành các nhóm 5 người. Hỏi có bao nhiêu nhóm?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "time_limit": 60
+    },
+    {
+      "id": 133,
+      "class": 3,
+      "level": "hard",
+      "question": "Một cửa hàng nhập về 5 hộp bút, mỗi hộp có 12 cây bút. Sau đó bán đi 30 cây. Hỏi còn lại bao nhiêu cây?",
+      "options": ["28", "29", "30", "31"],
+      "answer": "30",
+      "time_limit": 60
+    },
+    {
+      "id": 134,
+      "class": 3,
+      "level": "hard",
+      "question": "Một xe buýt chở 50 hành khách. Khi đến trạm, có 18 người xuống và 12 người lên. Hỏi trên xe còn bao nhiêu hành khách?",
+      "options": ["42", "43", "44", "45"],
+      "answer": "44",
+      "time_limit": 60
+    },
+    {
+      "id": 135,
+      "class": 3,
+      "level": "hard",
+      "question": "9 × 4 × 2 = ?",
+      "options": ["70", "71", "72", "73"],
+      "answer": "72",
+      "time_limit": 60
+    },
+    {
+      "id": 136,
+      "class": 4,
+      "level": "easy",
+      "question": "Một góc vuông có bao nhiêu độ?",
+      "options": ["90°", "180°", "360°", "270°"],
+      "answer": "90°",
+      "time_limit": 20
+    },
+    {
+      "id": 137,
+      "class": 4,
+      "level": "easy",
+      "question": "Đơn vị đo góc là gì?",
+      "options": ["Met", "Kilogram", "Độ", "Giây"],
+      "answer": "Độ",
+      "time_limit": 20
+    },
+    {
+      "id": 138,
+      "class": 4,
+      "level": "easy",
+      "question": "Số 123456789 có bao nhiêu chữ số?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "time_limit": 20
+    },
+    {
+      "id": 139,
+      "class": 4,
+      "level": "easy",
+      "question": "1000 m bằng bao nhiêu km?",
+      "options": ["0.1 km", "1 km", "10 km", "100 km"],
+      "answer": "1 km",
+      "time_limit": 20
+    },
+    {
+      "id": 140,
+      "class": 4,
+      "level": "easy",
+      "question": "Góc nhọn có độ lớn bao nhiêu?",
+      "options": ["0° - 90°", "90° - 180°", "180° - 360°", "90° - 270°"],
+      "answer": "0° - 90°",
+      "time_limit": 20
+    },
+    {
+      "id": 141,
+      "class": 4,
+      "level": "easy",
+      "question": "Số 987654321 có bao nhiêu chữ số?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "time_limit": 20
+    },
+    {
+      "id": 142,
+      "class": 4,
+      "level": "easy",
+      "question": "1 km = bao nhiêu m?",
+      "options": ["100 m", "1000 m", "10000 m", "100000 m"],
+      "answer": "1000 m",
+      "time_limit": 20
+    },
+    {
+      "id": 143,
+      "class": 4,
+      "level": "easy",
+      "question": "Số 456789 có bao nhiêu chữ số?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6",
+      "time_limit": 20
+    },
+    {
+      "id": 144,
+      "class": 4,
+      "level": "easy",
+      "question": "Góc bẹt có độ lớn bao nhiêu?",
+      "options": ["0°", "90°", "180°", "360°"],
+      "answer": "180°",
+      "time_limit": 20
+    },
+    {
+      "id": 145,
+      "class": 4,
+      "level": "easy",
+      "question": "1 tấn bằng bao nhiêu kg?",
+      "options": ["100", "1000", "10", "10000"],
+      "answer": "1000",
+      "time_limit": 20
+    },
+    {
+      "id": 146,
+      "class": 4,
+      "level": "easy",
+      "question": "Đơn vị đo dài phổ biến là gì?",
+      "options": ["Met", "Giây", "Kilogram", "Độ"],
+      "answer": "Met",
+      "time_limit": 20
+    },
+    {
+      "id": 147,
+      "class": 4,
+      "level": "easy",
+      "question": "Số 123 có bao nhiêu chữ số?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3",
+      "time_limit": 20
+    },
+    {
+      "id": 148,
+      "class": 4,
+      "level": "easy",
+      "question": "Số 100000 có bao nhiêu chữ số?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "6",
+      "time_limit": 20
+    },
+    {
+      "id": 149,
+      "class": 4,
+      "level": "easy",
+      "question": "Góc tù có độ lớn bao nhiêu?",
+      "options": ["0° - 90°", "90° - 180°", "180° - 360°", "270° - 360°"],
+      "answer": "90° - 180°",
+      "time_limit": 20
+    },
+    {
+      "id": 150,
+      "class": 4,
+      "level": "easy",
+      "question": "5000 m = bao nhiêu km?",
+      "options": ["0.5 km", "5 km", "50 km", "500 km"],
+      "answer": "5 km",
+      "time_limit": 20
+    },
+    {
+      "id": 151,
+      "class": 4,
+      "level": "medium",
+      "question": "Hai đường thẳng vuông góc với nhau có gì đặc biệt?",
+      "options": ["Chúng cắt nhau tại một góc 90°", "Chúng không cắt nhau", "Chúng song song với nhau", "Chúng có độ dài bằng nhau"],
+      "answer": "Chúng cắt nhau tại một góc 90°",
+      "time_limit": 40
+    },
+    {
+      "id": 152,
+      "class": 4,
+      "level": "medium",
+      "question": "Hai đường thẳng song song có điểm chung không?",
+      "options": ["Có", "Không", "Một", "Hai"],
+      "answer": "Không",
+      "time_limit": 40
+    },
+    {
+      "id": 153,
+      "class": 4,
+      "level": "medium",
+      "question": "5 × 8 = ?",
+      "options": ["40", "42", "44", "48"],
+      "answer": "40",
+      "time_limit": 40
+    },
+    {
+      "id": 154,
+      "class": 4,
+      "level": "medium",
+      "question": "72 ÷ 9 = ?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "8",
+      "time_limit": 40
+    },
+    {
+      "id": 155,
+      "class": 4,
+      "level": "medium",
+      "question": "Công ty A bán được 120 sản phẩm trong tháng 1, 150 sản phẩm trong tháng 2 và 180 sản phẩm trong tháng 3. Hỏi trung bình mỗi tháng công ty bán được bao nhiêu sản phẩm?",
+      "options": ["130", "140", "150", "160"],
+      "answer": "150",
+      "time_limit": 40
+    },
+    {
+      "id": 156,
+      "class": 4,
+      "level": "medium",
+      "question": "3 × 7 = ?",
+      "options": ["20", "21", "22", "23"],
+      "answer": "21",
+      "time_limit": 40
+    },
+    {
+      "id": 157,
+      "class": 4,
+      "level": "medium",
+      "question": "45 ÷ 5 = ?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9",
+      "time_limit": 40
+    },
+    {
+      "id": 158,
+      "class": 4,
+      "level": "medium",
+      "question": "Nếu một nhóm học sinh có 30 bạn, và số bạn trai là 12, số bạn gái là bao nhiêu?",
+      "options": ["12", "18", "20", "22"],
+      "answer": "18",
+      "time_limit": 40
+    },
+    {
+      "id": 159,
+      "class": 4,
+      "level": "medium",
+      "question": "7 × 6 = ?",
+      "options": ["42", "43", "44", "45"],
+      "answer": "42",
+      "time_limit": 40
+    },
+    {
+      "id": 160,
+      "class": 4,
+      "level": "medium",
+      "question": "Bảng thống kê số lượng các loại trái cây trong cửa hàng cho thấy: Táo: 50 quả, Cam: 30 quả, Chuối: 20 quả. Hỏi cửa hàng có bao nhiêu quả trái cây tổng cộng?",
+      "options": ["100", "110", "120", "130"],
+      "answer": "100",
+      "time_limit": 40
+    },
+    {
+      "id": 161,
+      "class": 4,
+      "level": "medium",
+      "question": "Công thức tính diện tích hình chữ nhật là gì?",
+      "options": ["D = dài × rộng", "D = dài + rộng", "D = dài ÷ rộng", "D = dài - rộng"],
+      "answer": "D = dài × rộng",
+      "time_limit": 40
+    },
+    {
+      "id": 162,
+      "class": 4,
+      "level": "medium",
+      "question": "8 × 9 = ?",
+      "options": ["70", "71", "72", "73"],
+      "answer": "72",
+      "time_limit": 40
+    },
+    {
+      "id": 163,
+      "class": 4,
+      "level": "medium",
+      "question": "Một lớp học có 40 học sinh, trong đó có 15 học sinh thích chơi bóng đá. Hỏi có bao nhiêu học sinh không thích chơi bóng đá?",
+      "options": ["20", "25", "30", "35"],
+      "answer": "25",
+      "time_limit": 40
+    },
+    {
+      "id": 164,
+      "class": 4,
+      "level": "medium",
+      "question": "9 × 5 = ?",
+      "options": ["45", "46", "47", "48"],
+      "answer": "45",
+      "time_limit": 40
+    },
+    {
+      "id": 165,
+      "class": 4,
+      "level": "medium",
+      "question": "Cửa hàng A bán được 180 sản phẩm trong tuần 1, 220 sản phẩm trong tuần 2, và 200 sản phẩm trong tuần 3. Hỏi trung bình mỗi tuần cửa hàng bán được bao nhiêu sản phẩm?",
+      "options": ["200", "210", "220", "230"],
+      "answer": "200",
+      "time_limit": 40
+    },
+      {
+      "id": 166,
+      "class": 4,
+      "level": "hard",
+      "question": "1/2 + 1/4 = ?",
+      "options": ["3/4", "5/6", "2/3", "3/5"],
+      "answer": "3/4",
+      "time_limit": 60
+    },
+    {
+      "id": 167,
+      "class": 4,
+      "level": "hard",
+      "question": "3/5 - 1/2 = ?",
+      "options": ["1/10", "2/5", "3/10", "7/10"],
+      "answer": "1/10",
+      "time_limit": 60
+    },
+    {
+      "id": 168,
+      "class": 4,
+      "level": "hard",
+      "question": "2/3 × 3/4 = ?",
+      "options": ["1/2", "3/4", "5/6", "6/7"],
+      "answer": "1/2",
+      "time_limit": 60
+    },
+    {
+      "id": 169,
+      "class": 4,
+      "level": "hard",
+      "question": "5/6 ÷ 1/2 = ?",
+      "options": ["5/3", "5/12", "10/3", "12/5"],
+      "answer": "5/3",
+      "time_limit": 60
+    },
+    {
+      "id": 170,
+      "class": 4,
+      "level": "hard",
+      "question": "Một lớp học có 20 học sinh. 1/4 số học sinh chơi thể thao, 1/5 số học sinh học nhạc. Còn lại học sinh nào không tham gia hoạt động này? Hỏi có bao nhiêu học sinh không tham gia?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "7",
+      "time_limit": 60
+    },
+    {
+      "id": 171,
+      "class": 4,
+      "level": "hard",
+      "question": "1/3 + 1/6 + 1/2 = ?",
+      "options": ["7/6", "5/6", "3/2", "2/3"],
+      "answer": "7/6",
+      "time_limit": 60
+    },
+    {
+      "id": 172,
+      "class": 4,
+      "level": "hard",
+      "question": "1/8 + 3/8 = ?",
+      "options": ["1/2", "4/8", "5/8", "6/8"],
+      "answer": "4/8",
+      "time_limit": 60
+    },
+    {
+      "id": 173,
+      "class": 4,
+      "level": "hard",
+      "question": "Công ty A có 200 sản phẩm, công ty B có 150 sản phẩm. Nếu công ty A bán được 1/4 số sản phẩm và công ty B bán được 1/3 số sản phẩm. Hỏi tổng cộng có bao nhiêu sản phẩm đã được bán?",
+      "options": ["95", "115", "125", "130"],
+      "answer": "95",
+      "time_limit": 60
+    },
+    {
+      "id": 174,
+      "class": 4,
+      "level": "hard",
+      "question": "Bài toán: Một lớp học có 30 học sinh. 1/2 học sinh thích toán, 1/3 học sinh thích tiếng Việt. Còn lại học sinh thích các môn học khác. Hỏi có bao nhiêu học sinh thích các môn học khác?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "9",
+      "time_limit": 60
+    },
+    {
+      "id": 175,
+      "class": 4,
+      "level": "hard",
+      "question": "4/5 × 3/7 = ?",
+      "options": ["12/35", "15/35", "14/35", "16/35"],
+      "answer": "12/35",
+      "time_limit": 60
+    },
+    {
+      "id": 176,
+      "class": 4,
+      "level": "hard",
+      "question": "1/2 × 5/8 = ?",
+      "options": ["5/16", "1/16", "3/8", "4/16"],
+      "answer": "5/16",
+      "time_limit": 60
+    },
+    {
+      "id": 177,
+      "class": 4,
+      "level": "hard",
+      "question": "Một gia đình có 4 người. 1/2 số người trong gia đình thích xem phim, 1/4 số người thích đọc sách, còn lại thích chơi thể thao. Hỏi có bao nhiêu người thích chơi thể thao?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "1",
+      "time_limit": 60
+    },
+    {
+      "id": 178,
+      "class": 4,
+      "level": "hard",
+      "question": "Cửa hàng có 300 sản phẩm. 1/3 số sản phẩm đã bán, 1/4 số sản phẩm đã hư hỏng. Hỏi số sản phẩm còn lại trong cửa hàng là bao nhiêu?",
+      "options": ["100", "120", "140", "160"],
+      "answer": "120",
+      "time_limit": 60
+    },
+    {
+      "id": 179,
+      "class": 4,
+      "level": "hard",
+      "question": "3/4 + 2/5 = ?",
+      "options": ["23/20", "29/20", "13/20", "9/20"],
+      "answer": "23/20",
+      "time_limit": 60
+    },
+    {
+      "id": 180,
+      "class": 4,
+      "level": "hard",
+      "question": "Bài toán thống kê: Số học sinh trong lớp A có sở thích như sau: 15 bạn thích đọc sách, 10 bạn thích xem phim, và 5 bạn thích thể thao. Hỏi tỷ lệ học sinh thích thể thao trong lớp A là bao nhiêu phần trăm?",
+      "options": ["25%", "30%", "20%", "15%"],
+      "answer": "20%",
+      "time_limit": 60
+    },
+    {
+      "id": 181,
+      "class": 5,
+      "level": "easy",
+      "question": "0.5 + 0.3 = ?",
+      "options": ["0.7", "0.8", "0.9", "1.0"],
+      "answer": "0.8",
+      "time_limit": 20
+    },
+    {
+      "id": 182,
+      "class": 5,
+      "level": "easy",
+      "question": "0.75 - 0.25 = ?",
+      "options": ["0.5", "0.75", "1.0", "1.25"],
+      "answer": "0.5",
+      "time_limit": 20
+    },
+    {
+      "id": 183,
+      "class": 5,
+      "level": "easy",
+      "question": "3.5 × 2 = ?",
+      "options": ["6.5", "7.5", "8.5", "9.5"],
+      "answer": "7.0",
+      "time_limit": 20
+    },
+    {
+      "id": 184,
+      "class": 5,
+      "level": "easy",
+      "question": "4.8 ÷ 2 = ?",
+      "options": ["2.2", "2.4", "2.6", "3.0"],
+      "answer": "2.4",
+      "time_limit": 20
+    },
+    {
+      "id": 185,
+      "class": 5,
+      "level": "easy",
+      "question": "Diện tích của một hình chữ nhật có chiều dài 6m và chiều rộng 4m là bao nhiêu?",
+      "options": ["24 m²", "20 m²", "12 m²", "16 m²"],
+      "answer": "24 m²",
+      "time_limit": 20
+    },
+    {
+      "id": 186,
+      "class": 5,
+      "level": "easy",
+      "question": "Hình vuông có cạnh dài 5 cm, chu vi của hình vuông là bao nhiêu?",
+      "options": ["15 cm", "20 cm", "25 cm", "30 cm"],
+      "answer": "20 cm",
+      "time_limit": 20
+    },
+    {
+      "id": 187,
+      "class": 5,
+      "level": "easy",
+      "question": "Một hình tròn có bán kính 7 cm. Chu vi của hình tròn là bao nhiêu (lấy pi = 3.14)?",
+      "options": ["44 cm", "49 cm", "56 cm", "60 cm"],
+      "answer": "44 cm",
+      "time_limit": 20
+    },
+    {
+      "id": 188,
+      "class": 5,
+      "level": "easy",
+      "question": "Hình chữ nhật có chiều dài 8 cm và chiều rộng 3 cm. Diện tích của hình chữ nhật là bao nhiêu?",
+      "options": ["24 cm²", "30 cm²", "32 cm²", "24 cm"],
+      "answer": "24 cm²",
+      "time_limit": 20
+    },
+    {
+      "id": 189,
+      "class": 5,
+      "level": "easy",
+      "question": "1 km² = bao nhiêu m²?",
+      "options": ["1000 m²", "10000 m²", "1000000 m²", "10000000 m²"],
+      "answer": "1000000 m²",
+      "time_limit": 20
+    },
+    {
+      "id": 190,
+      "class": 5,
+      "level": "easy",
+      "question": "Diện tích của một hình tròn có bán kính 3 m (lấy pi = 3.14) là bao nhiêu?",
+      "options": ["28.26 m²", "30.24 m²", "33.12 m²", "35.14 m²"],
+      "answer": "28.26 m²",
+      "time_limit": 20
+    },
+    {
+      "id": 191,
+      "class": 5,
+      "level": "easy",
+      "question": "Cạnh của một hình vuông là 6 cm, diện tích của hình vuông là bao nhiêu?",
+      "options": ["36 cm²", "40 cm²", "44 cm²", "50 cm²"],
+      "answer": "36 cm²",
+      "time_limit": 20
+    },
+    {
+      "id": 192,
+      "class": 5,
+      "level": "easy",
+      "question": "Một hình chữ nhật có chiều dài 10 m và chiều rộng 2 m. Chu vi của hình chữ nhật là bao nhiêu?",
+      "options": ["20 m", "22 m", "24 m", "30 m"],
+      "answer": "24 m",
+      "time_limit": 20
+    },
+    {
+      "id": 193,
+      "class": 5,
+      "level": "easy",
+      "question": "Nếu một hình tròn có bán kính 5 cm, diện tích của hình tròn là bao nhiêu (lấy pi = 3.14)?",
+      "options": ["78.5 cm²", "80 cm²", "85 cm²", "90 cm²"],
+      "answer": "78.5 cm²",
+      "time_limit": 20
+    },
+    {
+      "id": 194,
+      "class": 5,
+      "level": "easy",
+      "question": "Tính diện tích của một hình chữ nhật có chiều dài 12 m và chiều rộng 7 m?",
+      "options": ["84 m²", "90 m²", "92 m²", "98 m²"],
+      "answer": "84 m²",
+      "time_limit": 20
+    },
+    {
+      "id": 195,
+      "class": 5,
+      "level": "easy",
+      "question": "Cạnh của một hình vuông dài 8 cm. Chu vi của hình vuông là bao nhiêu?",
+      "options": ["32 cm", "48 cm", "60 cm", "64 cm"],
+      "answer": "32 cm",
+      "time_limit": 20
+    },
+    {
+      "id": 196,
+      "class": 5,
+      "level": "medium",
+      "question": "Tỷ số của 30 và 15 là bao nhiêu?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "2",
+      "time_limit": 40
+    },
+    {
+      "id": 197,
+      "class": 5,
+      "level": "medium",
+      "question": "Tỷ số giữa số học sinh thích chơi bóng đá và số học sinh thích chơi bóng rổ trong lớp là 3:4. Nếu lớp có 21 học sinh thích chơi bóng đá, thì có bao nhiêu học sinh thích chơi bóng rổ?",
+      "options": ["24", "28", "32", "36"],
+      "answer": "28",
+      "time_limit": 40
+    },
+    {
+      "id": 198,
+      "class": 5,
+      "level": "medium",
+      "question": "Một hình lập phương có cạnh dài 5 cm. Thể tích của hình lập phương là bao nhiêu?",
+      "options": ["25 cm³", "50 cm³", "125 cm³", "150 cm³"],
+      "answer": "125 cm³",
+      "time_limit": 40
+    },
+    {
+      "id": 199,
+      "class": 5,
+      "level": "medium",
+      "question": "Thể tích của một hình hộp chữ nhật có chiều dài 8 cm, chiều rộng 4 cm và chiều cao 3 cm là bao nhiêu?",
+      "options": ["84 cm³", "90 cm³", "96 cm³", "100 cm³"],
+      "answer": "96 cm³",
+      "time_limit": 40
+    },
+    {
+      "id": 200,
+      "class": 5,
+      "level": "medium",
+      "question": "Cạnh của một hình vuông là 6 cm. Diện tích của hình vuông là bao nhiêu?",
+      "options": ["36 cm²", "32 cm²", "30 cm²", "40 cm²"],
+      "answer": "36 cm²",
+      "time_limit": 40
+    },
+    {
+      "id": 201,
+      "class": 5,
+      "level": "medium",
+      "question": "Một hình trụ có bán kính 3 cm và chiều cao 5 cm. Thể tích của hình trụ là bao nhiêu (lấy pi = 3.14)?",
+      "options": ["141.3 cm³", "125.6 cm³", "150.7 cm³", "120.9 cm³"],
+      "answer": "141.3 cm³",
+      "time_limit": 40
+    },
+    {
+      "id": 202,
+      "class": 5,
+      "level": "medium",
+      "question": "Một chiếc hộp hình chữ nhật có chiều dài 10 cm, chiều rộng 4 cm, và chiều cao 5 cm. Thể tích của chiếc hộp là bao nhiêu?",
+      "options": ["150 cm³", "200 cm³", "250 cm³", "300 cm³"],
+      "answer": "200 cm³",
+      "time_limit": 40
+    },
+    {
+      "id": 203,
+      "class": 5,
+      "level": "medium",
+      "question": "Một hình nón có bán kính 4 cm và chiều cao 6 cm. Thể tích của hình nón là bao nhiêu (lấy pi = 3.14)?",
+      "options": ["75.36 cm³", "78.48 cm³", "80.25 cm³", "85.5 cm³"],
+      "answer": "75.36 cm³",
+      "time_limit": 40
+    },
+    {
+      "id": 204,
+      "class": 5,
+      "level": "medium",
+      "question": "Một cái hồ có hình tròn có bán kính 10 m. Diện tích mặt nước của hồ là bao nhiêu (lấy pi = 3.14)?",
+      "options": ["314 m²", "350 m²", "400 m²", "450 m²"],
+      "answer": "314 m²",
+      "time_limit": 40
+    },
+    {
+      "id": 205,
+      "class": 5,
+      "level": "medium",
+      "question": "Một hình chóp có diện tích đáy là 20 cm² và chiều cao 12 cm. Thể tích của hình chóp là bao nhiêu?",
+      "options": ["80 cm³", "60 cm³", "100 cm³", "120 cm³"],
+      "answer": "80 cm³",
+      "time_limit": 40
+    },
+    {
+      "id": 206,
+      "class": 5,
+      "level": "medium",
+      "question": "Tỷ số của diện tích của một hình vuông với diện tích của hình chữ nhật có chiều dài 6 cm và chiều rộng 4 cm là bao nhiêu?",
+      "options": ["1:2", "1:3", "1:4", "1:5"],
+      "answer": "1:2",
+      "time_limit": 40
+    },
+    {
+      "id": 207,
+      "class": 5,
+      "level": "medium",
+      "question": "Một hình lập phương có cạnh dài 8 cm. Thể tích của hình lập phương là bao nhiêu?",
+      "options": ["512 cm³", "256 cm³", "128 cm³", "64 cm³"],
+      "answer": "512 cm³",
+      "time_limit": 40
+    },
+    {
+      "id": 208,
+      "class": 5,
+      "level": "medium",
+      "question": "Diện tích bề mặt của một hình cầu có bán kính 7 cm là bao nhiêu (lấy pi = 3.14)?",
+      "options": ["612.16 cm²", "500.8 cm²", "450.6 cm²", "400.2 cm²"],
+      "answer": "612.16 cm²",
+      "time_limit": 40
+    },
+    {
+      "id": 209,
+      "class": 5,
+      "level": "medium",
+      "question": "Tính thể tích của một hình hộp chữ nhật có chiều dài 5 m, chiều rộng 4 m và chiều cao 3 m.",
+      "options": ["60 m³", "50 m³", "40 m³", "45 m³"],
+      "answer": "60 m³",
+      "time_limit": 40
+    },
+    {
+      "id": 210,
+      "class": 5,
+      "level": "medium",
+      "question": "Diện tích của một hình chữ nhật có chiều dài 12 cm và chiều rộng 5 cm là bao nhiêu?",
+      "options": ["60 cm²", "50 cm²", "70 cm²", "65 cm²"],
+      "answer": "60 cm²",
+      "time_limit": 40
+    },
+    {
+      "id": 211,
+      "class": 5,
+      "level": "hard",
+      "question": "Tính diện tích của một hình tròn có bán kính 12 cm (lấy pi = 3.14)?",
+      "options": ["452.16 cm²", "423.00 cm²", "510.50 cm²", "503.04 cm²"],
+      "answer": "452.16 cm²",
+      "time_limit": 60
+    },
+    {
+      "id": 212,
+      "class": 5,
+      "level": "hard",
+      "question": "Một hình trụ có bán kính 7 cm và chiều cao 14 cm. Thể tích của hình trụ là bao nhiêu (lấy pi = 3.14)?",
+      "options": ["2156.56 cm³", "1850.20 cm³", "2100.00 cm³", "2200.10 cm³"],
+      "answer": "2156.56 cm³",
+      "time_limit": 60
+    },
+    {
+      "id": 213,
+      "class": 5,
+      "level": "hard",
+      "question": "Tỷ số giữa diện tích của một hình vuông có cạnh dài 10 cm và diện tích của hình chữ nhật có chiều dài 15 cm và chiều rộng 6 cm là bao nhiêu?",
+      "options": ["1:3", "2:3", "1:2", "1:4"],
+      "answer": "1:3",
+      "time_limit": 60
+    },
+    {
+      "id": 214,
+      "class": 5,
+      "level": "hard",
+      "question": "Thể tích của một hình hộp chữ nhật có chiều dài 10 cm, chiều rộng 6 cm và chiều cao 4 cm là bao nhiêu?",
+      "options": ["240 cm³", "180 cm³", "2400 cm³", "200 cm³"],
+      "answer": "240 cm³",
+      "time_limit": 60
+    },
+    {
+      "id": 215,
+      "class": 5,
+      "level": "hard",
+      "question": "Tính diện tích bề mặt của một hình cầu có bán kính 8 cm (lấy pi = 3.14)?",
+      "options": ["804.25 cm²", "1004.80 cm²", "900.50 cm²", "1045.12 cm²"],
+      "answer": "804.25 cm²",
+      "time_limit": 60
+    },
+    {
+      "id": 216,
+      "class": 5,
+      "level": "hard",
+      "question": "Một hình nón có bán kính 6 cm và chiều cao 10 cm. Thể tích của hình nón là bao nhiêu (lấy pi = 3.14)?",
+      "options": ["113.04 cm³", "125.60 cm³", "150.72 cm³", "180.00 cm³"],
+      "answer": "113.04 cm³",
+      "time_limit": 60
+    },
+    {
+      "id": 217,
+      "class": 5,
+      "level": "hard",
+      "question": "Một chiếc hộp hình chữ nhật có chiều dài 8 cm, chiều rộng 5 cm, và chiều cao 12 cm. Thể tích của chiếc hộp là bao nhiêu?",
+      "options": ["480 cm³", "500 cm³", "4800 cm³", "460 cm³"],
+      "answer": "480 cm³",
+      "time_limit": 60
+    },
+    {
+      "id": 218,
+      "class": 5,
+      "level": "hard",
+      "question": "Tỷ số giữa thể tích của một hình lập phương có cạnh 10 cm và thể tích của hình hộp chữ nhật có chiều dài 10 cm, chiều rộng 5 cm và chiều cao 4 cm là bao nhiêu?",
+      "options": ["1:2", "2:3", "3:4", "1:3"],
+      "answer": "3:2",
+      "time_limit": 60
+    },
+    {
+      "id": 219,
+      "class": 5,
+      "level": "hard",
+      "question": "Một hình chóp có diện tích đáy là 15 cm² và chiều cao 9 cm. Thể tích của hình chóp là bao nhiêu?",
+      "options": ["45 cm³", "55 cm³", "60 cm³", "67 cm³"],
+      "answer": "45 cm³",
+      "time_limit": 60
+    },
+    {
+      "id": 220,
+      "class": 5,
+      "level": "hard",
+      "question": "Một hình tròn có bán kính 14 cm. Diện tích của hình tròn là bao nhiêu (lấy pi = 3.14)?",
+      "options": ["615.44 cm²", "615.72 cm²", "625.44 cm²", "610.25 cm²"],
+      "answer": "615.44 cm²",
+      "time_limit": 60
+    },
+    {
+      "id": 221,
+      "class": 5,
+      "level": "hard",
+      "question": "Tính thể tích của một hình lập phương có cạnh 12 cm?",
+      "options": ["1440 cm³", "1728 cm³", "1300 cm³", "1200 cm³"],
+      "answer": "1728 cm³",
+      "time_limit": 60
+    },
+    {
+      "id": 222,
+      "class": 5,
+      "level": "hard",
+      "question": "Diện tích của một hình chữ nhật có chiều dài 15 cm và chiều rộng 8 cm là bao nhiêu?",
+      "options": ["100 cm²", "120 cm²", "130 cm²", "140 cm²"],
+      "answer": "120 cm²",
+      "time_limit": 60
+    },
+    {
+      "id": 223,
+      "class": 5,
+      "level": "hard",
+      "question": "Tỷ số của diện tích của một hình vuông với diện tích của hình chữ nhật có chiều dài 12 cm và chiều rộng 10 cm là bao nhiêu?",
+      "options": ["1:1", "1:2", "2:3", "3:4"],
+      "answer": "1:2",
+      "time_limit": 60
+    },
+    {
+      "id": 224,
+      "class": 5,
+      "level": "hard",
+      "question": "Thể tích của một hình hộp chữ nhật có chiều dài 20 cm, chiều rộng 8 cm và chiều cao 6 cm là bao nhiêu?",
+      "options": ["960 cm³", "9600 cm³", "900 cm³", "1000 cm³"],
+      "answer": "960 cm³",
+      "time_limit": 60
+    },
+    {
+      "id": 225,
+      "class": 5,
+      "level": "hard",
+      "question": "Một hình trụ có bán kính 5 cm và chiều cao 15 cm. Thể tích của hình trụ là bao nhiêu (lấy pi = 3.14)?",
+      "options": ["1175.5 cm³", "1400.5 cm³", "1550 cm³", "1650 cm³"],
+      "answer": "1175.5 cm³",
+      "time_limit": 60
+    }
+  ]
+}
